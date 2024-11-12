@@ -4,6 +4,7 @@
 This project demonstrates a pathfinding algorithm implemented in Python, designed to trace the shortest and easiest paths on a grid with obstacles. It's built for applications in the gaming sector, where efficient pathfinding is essential for gameplay, navigation, and AI behavior.
 
 Key Features
+
 *Grid-Based Navigation: The algorithm works on a grid system, marking the start and end points, as well as obstacles.
 
 *Shortest Path Calculation: Uses pathfinding algorithms (like A* or Dijkstra’s) to determine the shortest route from the start to the destination, avoiding obstacles.
